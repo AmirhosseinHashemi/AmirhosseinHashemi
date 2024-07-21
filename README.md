@@ -6,8 +6,7 @@ Motivated and detail-oriented Junior Frontend Developer with a solid foundation 
 CSS, and JavaScript. The ability to create responsive and user-friendly web interfaces using
 modern tools, including React and Tailwind.
 Excellent problem-solving skills, fast learner and commitment to learning and staying
-updated with the industry. Eager to contribute to a dynamic team and help build an
-engaging digital experience.
+updated with the industry.
 
 <br/>
 <br/>
