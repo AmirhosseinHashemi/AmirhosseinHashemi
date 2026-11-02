@@ -51,4 +51,7 @@ Passionate about clean code, scalable architecture, problem-solving, and continu
 <p align="left">
 <a href="https://linkedin.com/in/amirhoseinhashemi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:4mirh03einhashemi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/AmirhosseinHashemi8">
+<img src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram&logoColor=26A5E4"/>
+</a> 
 </p>
